@@ -30,7 +30,7 @@
 ```
 
 ## Demo
-- You can download or import this project on Android Studio to see how it's work.
+- You can download or import this project on Android Studio to see how it's work...
 
 ## Contribute:
 #### Simple 3 step to contribute into this repo:
